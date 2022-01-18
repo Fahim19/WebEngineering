@@ -1,0 +1,188 @@
+body{
+	margin: 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+section{
+	width: 100%;
+	display: flex;
+	margin-bottom: 10%;
+}
+
+.partition{
+	width: 50%;
+	
+}
+
+.partition img{
+	width: 95%;
+}
+.sizing1{
+	margin-left: 10%;
+	padding-top: 5%;
+	padding-right: 5%;
+	padding-left: 2%;
+}
+.sizing1 h1{
+	color:  #363030;
+	font-size: 30px;
+}
+
+.sizing1 p{
+	color:  #5c5857;
+	font-size: 15px;
+	padding-bottom: 10%;
+	
+}
+
+.sizing1 a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color: white;
+	background: linear-gradient(90deg,  #fa5b05,  #fb2109);
+	border-radius: 15px;
+	
+}
+.sizing1 span{
+	color:  #ff4000;
+}
+
+.sizing2{
+	margin-right: 5%;
+}
+
+.bg{
+	
+	background-image: url(images/myframe.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 10%;
+}
+
+.sizing3{
+	margin-left: 5%;
+}
+
+.sizing4{
+	margin-right: 10%;
+	padding-left: 5%;
+	padding-right: 2%;
+}
+
+.sizing4 h3{
+	color:  #363030;
+	font-size: 40px;
+}
+
+.sizing4 p{
+	color:  #5c5857;
+	font-size: 15px;
+	padding-bottom: 20%;
+}
+
+.sizing4 a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color: white;
+	background: linear-gradient(90deg,  #fa5b05,  #fb2109);
+	border-radius: 15px;
+}
+
+.item-description{
+	width: 100%;
+	margin-bottom: 80px;
+	display: block;
+}
+#menu-description{
+	margin-bottom: 10%;
+}
+#menu-description h3{
+	text-align: center;
+}
+
+#menu-description p{
+	text-align: center;
+	
+}
+
+.menu-list{
+	
+	width: 100%;
+	display: flex;
+	margin-bottom: 0px;
+	
+}
+
+.menu{
+	width: 26%;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 1px 3px 13px rgba(0,0,0,.2);
+}
+
+.menu:first-child{
+	margin-left: 5%;
+	margin-right: 7%;
+}
+
+.menu:last-child{
+	
+	margin-left: 7%;
+	margin-right: 5%;
+}
+
+.menu img{
+	width: 100%;
+	border-radius: 10px;
+}
+
+#social-media{
+	width: 90%;
+	margin: auto;
+	box-shadow: 1px 3px 13px rgba(0,0,0,.2);
+}
+.sm{
+	width: 25%;
+	padding-left: 4%;
+}
+
+.sm:first-child{
+	margin-left: 1%;
+	margin-right: 7%;
+}
+
+.sm:last-child{
+	margin-left: 9%;
+	margin-right: 5%;
+}
+
+.sm h2{
+	text-align: center;
+}
+
+.sm p{
+	text-align: center;
+}
+
+footer{
+	background-color:  #060613;
+	height: 150px;
+}
+footer span{
+	color:  #ff5900;
+}
+footer h2{
+	color:  #f3f1f1;
+	text-align: center;
+	padding-top: 40px;
+}
+
+footer p{
+	text-align: center;
+	color: white;
+	padding-bottom: 30px;
+}
+
+
+	
